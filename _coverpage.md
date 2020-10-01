@@ -9,4 +9,4 @@
 - 马上开始吧
 
 [我的博客](https://akagiyui.com)
-[马上开始](/#/?id=documents-akagiyui)
+[马上开始](https://docs.akagiyui.com/#/?id=documents-akagiyui)
