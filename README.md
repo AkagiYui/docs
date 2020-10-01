@@ -6,7 +6,7 @@
 
 (其实就跟博客差不多
 
-本站地址：[docs.akagiyui.com](https://docs.akagiyui.com)
+本站地址：[docs.akagiyui.com](https://docs.akagiyui.com/#/)
 
 我的博客：[akagiyui.com](https://akagiyui.com)<br/>
 一言接口：[yy.akagiyui.com](https://yy.akagiyui.com)<br/>
