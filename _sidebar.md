@@ -1,2 +1,2 @@
 * [Home](/)
-* [Guide](guide.md "The greatest guide in the world")
+* [Guide](/guide "The greatest guide in the world")
