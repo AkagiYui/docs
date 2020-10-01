@@ -17,7 +17,13 @@
   </script>
   <script>
     window.$docsify = {
-     count : {
+     
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      formatUpdated: function(time) {
+        return time;
+     },
+      
+      count : {
        countable: true ,
        fontsize: '0.9em' ,
        color: 'rgb(90,90,90)' ,
@@ -27,9 +33,10 @@
       loadNavbar: true ,
       loadSidebar: true ,
       subMaxLevel: 2 ,
-      logo: 'https://docsify.js.org/_media/icon.svg',
+      //logo: 'https://docsify.js.org/_media/icon.svg',
       coverpage: true ,
-      themeColor: '#66CCFF'
+      themeColor: '#66CCFF' ,
+      autoHeader: true
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
