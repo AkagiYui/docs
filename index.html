@@ -38,7 +38,29 @@
       onlyCover: false,
       notFoundPage: 'my404.md',
       
-      search: 'auto',
+      search: {
+      maxAge: 86400000,
+      paths: [], // or 'auto'
+     
+      placeholder: {
+        '/': '搜索'
+      },
+
+      noData: {
+        '/': '找不到内容'
+      },
+
+      depth: 2,
+
+      hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+
+      namespace: 'website-1',
+
+      pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+
+      pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+    }
+  },
       
       
       
