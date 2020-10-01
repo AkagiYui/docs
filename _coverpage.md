@@ -1,12 +1,12 @@
 ![logo](https://docsify.js.org/_media/favicon.ico)
 
-# docsify <small>3.5</small>
+# Documents <small>AkagiYui</small>
 
-> 一个神奇的文档网站生成器。
+> AkagiYui的文档网站。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 这里记录了AkagiYui分享的文档
+- 看看有没有你需要的
+- 马上开始吧
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[我的博客](https://akagiyui.com)
+[马上开始](/)
