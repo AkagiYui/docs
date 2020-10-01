@@ -1,4 +1,4 @@
-![logo](https://docsify.js.org/_media/favicon.ico)
+![logo](https://docsify.js.org/_media/icon.svg)
 
 # Documents <small>AkagiYui</small>
 
@@ -9,4 +9,4 @@
 - 马上开始吧
 
 [我的博客](https://akagiyui.com)
-[马上开始](/)
+[马上开始](/#/?id=documents-akagiyui)
