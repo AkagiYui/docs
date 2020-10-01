@@ -1,2 +1,2 @@
-* [Blog](https://akagiyui.com)
+* [博客](https://akagiyui.com)
 * [文档](/)
