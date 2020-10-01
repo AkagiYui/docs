@@ -6,4 +6,6 @@
 
 (其实就跟博客差不多
 
-<br>{docsify-updated}
+本站地址：<docs.akagiyui.com>
+
+{docsify-updated}
